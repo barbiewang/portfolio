@@ -8,3 +8,26 @@
   display:-webkite-flex;
   display:flex;
 }
+.title{
+	background: #33bebe;
+    padding: 10px;
+    /* margin: 8px; */
+    color: white;
+    font-size: 46px;
+    padding-top: 25px;
+    padding-left: 30px;
+	margin-bottom: 50px;
+}
+.image{
+	width:300px;
+	margin-right: 20px;
+}
+img{
+	width:300px;
+	height:300px;
+}
+.description{
+	color:gray;
+	font-family:Arial;
+	padding: 5px 0;
+}
